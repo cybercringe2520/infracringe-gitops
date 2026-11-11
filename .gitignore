@@ -1,0 +1,6 @@
+# Never commit decrypted secrets or keys
+*.dec.yaml
+*.key
+*.pem
+.env
+.env.*
